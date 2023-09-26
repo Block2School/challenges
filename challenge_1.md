@@ -13,14 +13,8 @@ You are given 3 lines:
 ## Here are a few example to help you :
 
 <div
-    style="
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        width: 100%;
-        height: 100%;
-        background-color: green"
+    style="display: flex; flex-direction: column;
+        width: 100%; height: 100%; background-color: green"
 >
 <table>
     <tr>
@@ -28,15 +22,12 @@ You are given 3 lines:
         output
             <textarea
                 style="
-                    width: 100%;
-                    height: 100%;
-                    border: none;
-                    outline: none;
-                    resize: none;
-                    background-color: red;
-                    font-size: 1.5rem;
-                    font-family: 'Courier New', Courier, monospace;
-                    color: #333;"
+                    width: 100%; height: 100%; border: none; outline: none; resize: none; background-color: red; font-size: 1.5rem; font-family: 'Courier New', Courier, monospace; color: #333;
+                    <!-- make the text stay on the left -->
+                    text-align: left;
+                    <!-- make the text stay on the top -->
+                    vertical-align: top;
+                    "
                 readonly
             >
             hello guys
@@ -46,15 +37,9 @@ You are given 3 lines:
         input
             <textarea
                 style="
-                    width: 100%;
-                    height: 100%;
-                    border: none;
-                    outline: none;
-                    resize: none;
-                    background-color: red;
-                    font-size: 1.5rem;
-                    font-family: 'Courier New', Courier, monospace;
-                    color: #333;"
+                    width: 100%; height: 100%; border: none;
+                    outline: none; resize: none; background-color: red;
+                    font-size: 1.5rem; font-family: 'Courier New', Courier, monospace; color: #333;"
                 readonly
             >
             hello guys
