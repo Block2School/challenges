@@ -31,7 +31,7 @@ You are given 3 lines:
 > Inputs</p>
 <textarea
     style="
-        min-height: 60px;
+        min-height: 80px;
         width: 90%;
         height: 100%;
         color: black;
@@ -58,7 +58,7 @@ O X
 > Outputs</p>
 <textarea
     style="
-        min-height: 60px;
+        min-height: 80px;
         width: 90%;
         height: 100%;
         color: black;
@@ -92,7 +92,7 @@ XXXXX
 > Inputs</p>
 <textarea
     style="
-        min-height: 60px;
+        min-height: 80px;
         width: 90%;
         height: 100%;
         color: black;
@@ -119,7 +119,7 @@ A B
 > Outputs</p>
 <textarea
     style="
-        min-height: 60px;
+        min-height: 80px;
         width: 90%;
         height: 100%;
         padding-left:1%;
