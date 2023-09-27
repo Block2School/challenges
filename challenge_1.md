@@ -34,6 +34,7 @@ You are given 3 lines:
         min-height: 60px;
         width: 90%;
         height: 100%;
+        color: black;
         padding-left:1%;
         resize: none;"
     readonly="readonly"
@@ -60,6 +61,7 @@ O X
         min-height: 60px;
         width: 90%;
         height: 100%;
+        color: black;
         padding-left:1%;
         resize: none;"
     readonly="readonly"
@@ -93,6 +95,7 @@ XXXXX
         min-height: 60px;
         width: 90%;
         height: 100%;
+        color: black;
         padding-left:1%;
         resize: none;"
     readonly="readonly"
@@ -120,6 +123,7 @@ A B
         width: 90%;
         height: 100%;
         padding-left:1%;
+        color: black;
         resize: none;"
     readonly="readonly"
 >
