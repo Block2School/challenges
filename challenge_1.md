@@ -67,10 +67,10 @@ O X
     readonly="readonly"
     word-wrap="normal"
     white-space="pre"
-    placeholder="  0
- 000
-XXXXX"
 >
+   0
+  000
+XXXXX
 </textarea>
 </div>
 </div>
