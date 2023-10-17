@@ -42,6 +42,7 @@ O X
     style="
         display: flex;
         flex-direction: column;
+        padding-left: 5%;
         width: 50%;"
 >
 <p
@@ -90,6 +91,7 @@ A B
     style="
         display: flex;
         flex-direction: column;
+        padding-left: 5%;
         width: 50%;"
 >
 <p
