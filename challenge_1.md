@@ -65,6 +65,7 @@ O X
         height: 100%;
         color: black;
         padding-left:1%;
+        font-size:1em;
         resize: none;"
     readonly="readonly"
     word-wrap="normal"
