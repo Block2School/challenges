@@ -72,8 +72,7 @@ O X
     white-space="pre"
 >
   0
-$$0
-$000
+ 000
 XXXXX
 </textarea>
 </div>
