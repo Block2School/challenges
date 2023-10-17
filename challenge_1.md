@@ -1,7 +1,5 @@
 ## The goal of this challenge is to find out the operations you'll have to do
 
-⚠️ Whitespaces are represented by a '$' unless specified otherwise, think of it as a ' ' ⚠️
-
 You are given 3 lines:
 
 - On the first line you'll receive:
@@ -31,20 +29,13 @@ You are given 3 lines:
         width: 100%;
         font-weight: bold;"
 > Inputs</p>
-<textarea
-    style="
-        min-height: 80px;
-        width: 90%;
-        height: 100%;
-        color: black;
-        padding-left:1%;
-        resize: none;"
-    readonly="readonly"
->
+
+```bash
 2
 O X
 3
-</textarea>
+```
+
 </div>
 </br>
 <div
@@ -58,23 +49,13 @@ O X
         width: 100%;
         font-weight: bold;"
 > Outputs</p>
-<textarea
-    style="
-        min-height: 80px;
-        width: 90%;
-        height: 100%;
-        color: black;
-        padding-left:1%;
-        font-size:1em;
-        resize: none;"
-    readonly="readonly"
-    word-wrap="normal"
-    white-space="pre"
->
+
+```bash
   0
  000
 XXXXX
-</textarea>
+```
+
 </div>
 </div>
 </br>
@@ -95,20 +76,14 @@ XXXXX
         width: 100%;
         font-weight: bold;"
 > Inputs</p>
-<textarea
-    style="
-        min-height: 80px;
-        width: 90%;
-        height: 100%;
-        color: black;
-        padding-left:1%;
-        resize: none;"
-    readonly="readonly"
->
+
+```bash
 3
 A B
 2
-</textarea>
+
+```
+
 </div>
 </br>
 <div
@@ -122,20 +97,13 @@ A B
         width: 100%;
         font-weight: bold;"
 > Outputs</p>
-<textarea
-    style="
-        min-height: 80px;
-        width: 90%;
-        height: 100%;
-        padding-left:1%;
-        color: black;
-        resize: none;"
-    readonly="readonly"
->
+
+```bash
    A
   BBB
  AAAAA
 AAAAAAA
-</textarea>
+```
+
 </div>
 </div>
