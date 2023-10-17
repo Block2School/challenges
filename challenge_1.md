@@ -3,12 +3,18 @@
 You are given 3 lines:
 
 - On the first line you'll receive:
-  - `A` -> An Integer between `0` and `30`
+  - `A` -> An Integer between `1` and `30`
 - On the second line, you'll receive:
   - `B` -> A letter
   - `C` -> A letter
 - On the last line you'll receive:
-  - `D` -> An Integer between `0` and `30`
+  - `D` -> An Integer between `1` and `30`
+ 
+⚠️ ** Constraint ** ⚠️
+
+`A` >= `D`
+
+`1` <= `D` <= `A` <= `30`
  
 ### ℹ Here are a few examples, given the inputs and outputs you have to find out what to do ℹ
  
@@ -35,7 +41,7 @@ You are given 3 lines:
 ```bash
 2
 O X
-3
+2
 ```
 
 </div>
@@ -54,9 +60,9 @@ O X
 > Outputs</p>
 
 ```bash
-  0
- 000
-XXXXX
+ O
+XXX
+
 ```
 
 </div>
@@ -103,10 +109,10 @@ A B
 > Outputs</p>
 
 ```bash
-   A
-  BBB
- AAAAA
-AAAAAAA
+  A
+ BBB
+AAAAA
+
 ```
 
 </div>
