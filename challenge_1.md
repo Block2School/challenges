@@ -10,6 +10,8 @@ You are given 3 lines:
 - On the last line you'll receive:
   - `D` -> An Integer between `0` and `30`
  
+### ℹ Here are a few examples, given the inputs and outputs you have to find out what to do ℹ
+ 
 ## Here are a few example to help you :
 
 <div
