@@ -71,6 +71,7 @@ O X
     word-wrap="normal"
     white-space="pre"
 >
+  0
 $$0
 $000
 XXXXX
