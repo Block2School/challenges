@@ -65,10 +65,12 @@ O X
         padding-left:1%;
         resize: none;"
     readonly="readonly"
+    word-wrap="normal"
+    white-space="pre"
+    placeholder="  0
+ 000
+XXXXX"
 >
-  O
- OOO
-XXXXX
 </textarea>
 </div>
 </div>
