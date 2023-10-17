@@ -1,6 +1,6 @@
 ## The goal of this challenge is to find out the operations you'll have to do
 
-⚠️ Whitespaces are represented by a '%' unless specified otherwise, think of it as a ' ' ⚠️
+⚠️ Whitespaces are represented by a '$' unless specified otherwise, think of it as a ' ' ⚠️
 
 You are given 3 lines:
 
@@ -70,8 +70,8 @@ O X
     word-wrap="normal"
     white-space="pre"
 >
-%%0
-%000
+$$0
+$000
 XXXXX
 </textarea>
 </div>
