@@ -1,6 +1,6 @@
 ## The goal of this challenge is to calculate the number of solutions to the following equation and display the number of solutions.
 
-##`ax²+bx+c=0`
+## `ax²+bx+c=0`
 
 You are given 3 integers on the same line separated by a space:
 
@@ -10,7 +10,7 @@ You are given 3 integers on the same line separated by a space:
   
 To solve this challenge, you should compute `d` with the following formula :
 
-##`d=b²-4ac`
+## `d=b²-4ac`
 
 .
 Once done, you can get the solution based on the value of d
